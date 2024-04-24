@@ -1,6 +1,4 @@
-# File: pattern_plotter.ex
-# Description: Elixir code for generating and plotting repeating geometric patterns
-# Author: Rishit Katiyar
+
 
 defmodule PatternPlotter do
   # Alias the Canvas and Color modules from the Gaz library for convenience
