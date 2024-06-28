@@ -1,6 +1,5 @@
 
 
-
 # PatternPlotter Module Update Explanation
 
 This document explains the updates made to the `PatternPlotter` module.
